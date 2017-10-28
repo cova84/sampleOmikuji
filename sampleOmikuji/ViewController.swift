@@ -10,7 +10,13 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var omikuji = ["『大凶」残念。ただの性犯罪者よ。。。","『凶」惜しい！まだ営業前だよ！もう一回！！","『末吉』おブスのキャサリンね","『小吉』安定感抜群のセバ子","『中吉』ママのお出ましよ！","『吉』可愛さNo.1！コバコ！","『大吉』やったね！全員集合！大当たり！！！"]
+    var omikuji = ["『大凶」残念。ただの性犯罪者よ。。。"
+        ,"『凶」惜しい！まだ営業前だよ！もう一回！！"
+        ,"『末吉』おブスのキャサリンね"
+        ,"『小吉』安定感抜群のセバ子"
+        ,"『中吉』ママのお出ましよ！"
+        ,"『吉』可愛さNo.1！コバコ！"
+        ,"『大吉』やったね！全員集合！大当たり！！！"]
     
     
     @IBOutlet weak var myImageView: UIImageView!
@@ -33,8 +39,7 @@ class ViewController: UIViewController {
         
         //アラートにOKボタンを追加
         alert.addAction(UIAlertAction(
-            title: "OK", style: .default, handler: {
-        action in self.myImageView.image = UIImage(named: "okama6.JPG" ); print("okama\(r).JPGが押されました")
+            title: "OK", style: .default, handler: {action in self.myImageView.image = UIImage(named: "okama\(r).JPG" ); print("okama\(r).JPGが押されました")
             }
         ))
     }
