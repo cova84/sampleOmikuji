@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D10080AF1FA4635600E2CE32 /* sample6.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D10080A81FA4635500E2CE32 /* sample6.JPG */; };
+		D10080AF1FA4635600E2CE32 /* okama6.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D10080A81FA4635500E2CE32 /* okama6.JPG */; };
 		D10080B01FA4635600E2CE32 /* okama2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D10080A91FA4635500E2CE32 /* okama2.JPG */; };
 		D10080B11FA4635600E2CE32 /* okama1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D10080AA1FA4635500E2CE32 /* okama1.JPG */; };
 		D10080B21FA4635600E2CE32 /* okama4.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D10080AB1FA4635600E2CE32 /* okama4.JPG */; };
@@ -42,7 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D10080A81FA4635500E2CE32 /* sample6.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample6.JPG; sourceTree = SOURCE_ROOT; };
+		D10080A81FA4635500E2CE32 /* okama6.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = okama6.JPG; sourceTree = SOURCE_ROOT; };
 		D10080A91FA4635500E2CE32 /* okama2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = okama2.JPG; sourceTree = SOURCE_ROOT; };
 		D10080AA1FA4635500E2CE32 /* okama1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = okama1.JPG; sourceTree = SOURCE_ROOT; };
 		D10080AB1FA4635600E2CE32 /* okama4.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = okama4.JPG; sourceTree = SOURCE_ROOT; };
@@ -120,7 +120,7 @@
 				D10080AD1FA4635600E2CE32 /* okama3.JPG */,
 				D10080AB1FA4635600E2CE32 /* okama4.JPG */,
 				D10080AC1FA4635600E2CE32 /* okama5.JPG */,
-				D10080A81FA4635500E2CE32 /* sample6.JPG */,
+				D10080A81FA4635500E2CE32 /* okama6.JPG */,
 				D11419341FA2E0ED0016AB89 /* AppDelegate.swift */,
 				D11419361FA2E0ED0016AB89 /* ViewController.swift */,
 				D11419381FA2E0ED0016AB89 /* Main.storyboard */,
@@ -263,7 +263,7 @@
 				D10080B11FA4635600E2CE32 /* okama1.JPG in Resources */,
 				D114193C1FA2E0ED0016AB89 /* Assets.xcassets in Resources */,
 				D10080B01FA4635600E2CE32 /* okama2.JPG in Resources */,
-				D10080AF1FA4635600E2CE32 /* sample6.JPG in Resources */,
+				D10080AF1FA4635600E2CE32 /* okama6.JPG in Resources */,
 				D114193A1FA2E0ED0016AB89 /* Main.storyboard in Resources */,
 				D10080B31FA4635600E2CE32 /* okama5.JPG in Resources */,
 				D10080B41FA4635600E2CE32 /* okama3.JPG in Resources */,

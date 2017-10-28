@@ -34,7 +34,7 @@ class ViewController: UIViewController {
         //アラートにOKボタンを追加
         alert.addAction(UIAlertAction(
             title: "OK", style: .default, handler: {
-        action in self.myImageView.image = UIImage(named: "okama\(r).JPG" ); print("okama\(r).JPGが押されました")
+        action in self.myImageView.image = UIImage(named: "okama6.JPG" ); print("okama\(r).JPGが押されました")
             }
         ))
     }
